@@ -16,7 +16,7 @@ The Atlas comprises seven broad thematic sections further broken down into artic
 - [3: The Support Scope](https://mips.makerdao.com/mips/details/MIP101#3-the-support-scope), further defined in [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106)
 - [4: The Protocol Scope](https://mips.makerdao.com/mips/details/MIP101#4-the-protocol-scope), further defined in [MIP107: Protocol Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP107)
 - [5: The Stability Scope](https://mips.makerdao.com/mips/details/MIP101#6-constitutional-delegates-cds-), further defined in [MIP104: Stability Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP104)
-- [6: The Accessibility Scope](https://mips.makerdao.com/mips/details/MIP101#6-the-accessibility-scope), further defined in [MIP106: Support Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP106)
+- [6: The Accessibility Scope](https://mips.makerdao.com/mips/details/MIP101#6-the-accessibility-scope), further defined in [MIP108: Accessibility Scope Bounded Mutable Alignment Artifact](https://mips.makerdao.com/mips/details/MIP108)
 
 ## Interactions
 
